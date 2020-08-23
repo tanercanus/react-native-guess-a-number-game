@@ -1,6 +1,4 @@
-# react-native-guess-a-number-game
-
-# React native application example
+# React native Guess a Number Game application example
 
 # Using expo
 
